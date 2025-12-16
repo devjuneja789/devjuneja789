@@ -1,18 +1,29 @@
-# 👋 Hey there, I'm Dev Juneja  
+<div align="center">
+  <p align="center">
+  <img src="./header.png" alt="Banner Image" width="100%"/>
+</p>
+<h1 align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hi%2C+I'm+Bharat.+You+are+Welcome!+%F0%9F%8C%9F](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hi,+I%27m+Dev+Juneja.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
+<p align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
+</p>
+</div>
 
-🚀 **Aspiring Full-Stack Developer** passionate about building scalable web applications and exploring modern technologies.  
-💡 Always curious about how things work — from backend APIs to DevOps pipelines!
+🏫 I’m currently learning **Devops and Cloud**
 
----
+💬 Ask me about **Frontend Development, MERN & JAVA Full Stack Development, Data Structure and Algorithm**
 
-## 🧠 About Me  
+🔎 I’m actively looking to collaborate on **Open source Project**
 
-- 🌐 Skilled in **JavaScript, Node.js, MongoDB, and React**
-- ⚙️ Currently learning **DevOps** — diving into **Docker, CI/CD pipelines (GitHub Actions), and cloud deployments (AWS & Vercel)**  
-- 💭 Love experimenting with APIs, automation scripts, and clean UI design  
-- 🌱 Continuously improving my problem-solving skills & exploring system design concepts  
+💗 Love to talk about **Research and Innovation!**
 
----
+💪 Passionate about **Competitive Coding** 
+
+📫 How to reach me - **devjuneja789@gmail.com**
+
+
 
 ## 💻 Tech Stack  
 
