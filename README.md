@@ -52,14 +52,16 @@
 
 ## 🧪 Featured Projects
 
-### 🔮 MiniLLM — Transformer LLM from Scratch
-Built a GPT-style LLM in PyTorch trained on Shakespeare. Implemented **RoPE, GQA, SwiGLU, RMSNorm** and a custom **BPE tokenizer** from scratch.
+### 🛒 Agentic-Catalog — Agent-Readable Storefront
+Built for Razorpay's agentic commerce hackathon. An autonomous AI buyer agent (Gemini API) searches a GEO-structured, agent-readable product catalog, matches a user's need, and checks out through Razorpay's test-mode APIs — every step logged in an auditable trail. Stack: MERN · TypeScript · Tailwind.
+
+### 🔁 RLM-Python — Recursive Language Model
+Replication of the Recursive Language Model architecture, working through RLM / agent-orchestration notebooks powered by the Gemini API.
 
 ### 🧠 Brainly — AI Second Brain
 Full-stack RAG app. Save YouTube videos, tweets, links → query them via natural language. Stack: React · Node · MongoDB · pgvector · Socket.io · OpenAI.
 
-### 📊 Hindi Text Classification
-CNN + BiLSTR + IndicBERT ensemble. **91.4% Macro F1.** Deployed via FastAPI. (EPICS Phase II)
+
 
 ---
 
